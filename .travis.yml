@@ -13,7 +13,7 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master # test the master branch
+  - master
   - gh-pages
 
 env:
