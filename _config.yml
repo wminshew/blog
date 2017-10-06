@@ -24,7 +24,7 @@ github_username:  wminshew
 
 # Build settings
 markdown: kramdown
-theme: jekyll-whiteglass
+# theme: jekyll-whiteglass
 # theme: minima
 plugins:
   - jekyll-feed
