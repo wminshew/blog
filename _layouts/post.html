@@ -16,4 +16,10 @@ layout: default
     {{ content }}
   </div>
 
+	{% if site.comments and page.comments != false %}
+	<div class="post-comments" itemprop="comment">
+		{% include comments.html %}
+	</div>
+	{% endif %}
+
 </article>

@@ -14,14 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: will minshew
+author: Will Minshew
 email: wminshew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blank, for now.
+  Exploring the juncture of computers, economics, psychology and biology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.willminshew.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wminshew
 twitter_image:
 github_username:  wminshew
+linkedin_username: william-minshew
 facebook_app_id:
 facebook_image:
 google_analytics: UA-107715418-1
@@ -36,7 +38,14 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-  
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      comments: true
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
