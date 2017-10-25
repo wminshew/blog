@@ -14,8 +14,6 @@
 		<i class="fa fa-linkedin"></i>
 	</a>
 	{% endif %}
-	{% if site.email %}
-	<a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o"></i></a>
-	{% endif %}
-	<a href="{{ feed_path | absolute_url }}"><i class="fa fa-rss"></i></a>
+  <a class="mailchimpBtn" href="{{ site.base_url }}/subscribe"><i class="fa fa-envelope-o"></i></a>
+  <a href="{{ feed_path | absolute_url }}"><i class="fa fa-rss"></i></a>
 </li>
