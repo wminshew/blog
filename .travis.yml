@@ -14,7 +14,6 @@ script: ./script/cibuild
 branches:
   only:
   - master
-  - gh-pages
 
 env:
   global:
