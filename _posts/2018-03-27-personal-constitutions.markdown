@@ -20,14 +20,13 @@ And from far enough away, this is obvious.
 “Of course an individual born in year 200 b.c. has different ideas, opinions, and norms than we do today!”
 But the more people zoom in, the more they seem to forget.
 “How on earth could person x possibly not have the same reaction as me to event y???”
-But these differences matter.
+But these state differences still matter.
 And they build up steadily over time, much like a river carving a canyon.
 Every day sediment is moved, and it seems insignificant.
 But over millions of years mountains are carved, and the result is anything but insignificant.
 
 We are not our thoughts.
 But we do, over time, become our thoughts.
-In financial jargon, thoughts would be a leading indicator for character.
 And our thoughts are heavily influenced by our environment—an idea that has been recognized time and time again in cliches[^4]:  
 
 We are the average of our five closest friends.  
@@ -36,10 +35,10 @@ How we spend our days is our we spend our lives.
 
 Personally I’ve come to refer to the principle as:
 We are what we eat, but at a higher abstraction level.
-Who we are and what we produce (concretely & abstractly; thoughts, behaviors, relationships, systems, etc) is heavily influenced by what we think.
+Who we are and what we produce (concretely & abstractly; thoughts, behaviors, relationships, systems, projects, etc; collectively, our _outputs_) are heavily influenced by what we think.
 What we think is heavily influenced by what inputs we receive.
-What inputs we receive at time t are heavily influenced by the outputs we produce at time t-1.
-Thus, the effect of repeated inputs in your life compound over time.
+What inputs we receive at time _t_ are heavily influenced by the outputs we produce at time _t-1_.
+Thus, **the effect of repeated inputs in your life compound over time**.
 Each human is like a snowball rolling downhill.
 We start small and are often given a direction (by our parents, by society); over time we gain mass and momentum, which makes it increasingly difficult to change direction.
 Habits that you’ve had for 10 years are harder to break than habits that you’ve had for 10 weeks.
@@ -56,6 +55,8 @@ There are two components:
 1. deliberately choosing your outputs, and
 2. reviewing & engaging with your outputs
 
+I purposely refer to _outputs_ abstractly, as this practice may be used to target concrete goals just as easily as less concrete habits, thought patterns, & character.
+Here I have chosen to focus on the latter.
 Re 1, in my [first post]({{ site.baseurl }}{% post_url 2017-10-24-why-write-a-blog %}) I explored the importance of setting destinations:
 
 > Before beginning a journey, it is important to choose a destination. The destination may be concrete or abstract, but it must be well-defined. If it isn’t, how will you know if you’re off-track, or if you’ve arrived? “My destination is nowhere” is explicit, and so acceptable. But if your destination is somewhere, further definition is paramount. Even the wise men needed a north star.
@@ -77,7 +78,7 @@ This might sound daunting, but remember these outputs are not set in stone.
 This is not your one chance to get it right; they are not set and forget.
 They form a living document, and defining our destination is an iterative process.
 
-This brings us to component 2: reviewing is how you turn your time t-1 outputs into time t inputs.
+This brings us to component 2: reviewing is how you turn your time _t-1_ outputs into time _t_ inputs.
 The review process is critical: this is how you complete the feedback loop between your past, current, and future selves[^6].
 You should not speed through the review process as though you were wolfing down a doritos locos taco.
 Rather, you are tasting an exquisite wine.
@@ -98,15 +99,17 @@ The more the ideas are triggered in life, the stronger the connections become, t
 Eventually the triggers happen so easily & often that it feels like you’re running your mind in debug mode.
 At that point, you won’t be able to get away from the error throwing when you violate one of them even if you wanted to.
 
-For concreteness and perhaps inspiration, I want to walk you through my own thought process.
-I label my own set of outputs my “Personal Constitution,” to appropriately recognize it as a formal agreement with myself.
+For concreteness, I will walk you through my own chosen outputs, which are largely truth-seeking or character-related in nature.
+I label my own set of outputs my “Personal Constitution,” to appropriately recognize it as a formal agreement with myself, and I try to review it first thing every morning.
 My document serves two main purposes:
 
 1. it is a single location where I collect my thoughts about what I believe to be true, what kind of person I wish to be, and what kind of life I wish to live; and
 2. it is a source of feedback when I review it, both to question how closely I have lived up to my ideals in the past, and to plant seeds for the future.
 
 It is a deeply personal document, and while some elements I believe are timeless, others may only relate to specific, temporary circumstances I am fixated on or struggling with today.
-I am publishing it to serve as a potential source of inspiration for others, and also as a filter for inbound communication.
+You may not agree with everything I've chosen to include, and that's ok; these are beliefs and ideas that resonant _with me_.
+You also may not fully understand everything I've included, as each line now holds rich contextual history in my own brain far beyond what words on a page represent.
+That said, I am publishing it to serve as a potential source of inspiration for others, and also as a filter for inbound communication[^8].
 Unlike Franklin, Covey, Dalio, Peterson, et al, I am not here to espouse any particular set of principles.
 Rather, the point I am trying to make is at a slightly higher abstraction level: it is the daily practice of choosing, reviewing, reflecting, and editing one’s principles that is powerful.
 Not necessarily any particular principles in and of themselves (though for each person, over time, I expect some convergence to a set they find resonant.)
@@ -124,6 +127,7 @@ Final note: some of the below are my own quotes, but many are from others. I cho
 [^5]: Yes, I have several daily practices. Don’t worry, I have no intention of turning this into a productivity blog, despite being a personal sucker for [productivity porn](https://pmarchive.com/guide_to_personal_productivity.html). Perhaps one day I will write up my full system, but today is not that day.
 [^6]: As I will discuss in a later blog post, I believe feedback loops are the most important known forces/structures in the universe.
 [^7]: Another feedback loop!
+[^8]: If you think my principles or practice is stupid, we probably wouldn't have gotten along very well anyway.
 
 ---
 
