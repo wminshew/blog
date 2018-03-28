@@ -1,0 +1,33 @@
+<footer class="site-footer">
+
+	<div class="wrapper">
+
+		<!-- <h2 class="footer&#45;heading">{{ site.title | escape }}</h2> -->
+
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<ul class="contact-list">
+					<li>
+						{% if site.author %}
+						&copy; {{ site.author | escape }}
+						{% else %}
+						{{ site.title | escape }}
+						{% endif %}
+					</li>
+					{% include social_links.html %}
+				</ul>
+			</div>
+
+			<div class="footer-col footer-col-3">
+				<p>{{ site.description | escape }}</p>
+			</div>
+		</div>
+
+    <div class="footer-attribution">
+      {% include footer_content.html %}
+    </div>
+
+  </div>
+
+  <script type="text/javascript" src="{{ "/assets/js/modal.js" | relative_url }}"></script>
+</footer>
