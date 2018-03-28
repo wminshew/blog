@@ -2,8 +2,8 @@
 layout: post
 title:  "Why write a blog"
 date:   2017-10-24
-categories: writing blogging learning hive-mind stigmergy
-keywords: writing blogging learning hive-mind stigmergy
+categories: writing blogging learning feedback-loops hive-mind stigmergy
+tags: writing blogging learning feedback-loops hive-mind stigmergy
 ---
 Before beginning a journey, it is important to choose a destination. The destination may be concrete or abstract, but it must be well-defined. If it isn’t, how will you know if you’re off-track, or if you’ve arrived? “My destination is nowhere” is explicit, and so acceptable. But if your destination is somewhere, further definition is paramount. Even the wise men needed a north star.
 

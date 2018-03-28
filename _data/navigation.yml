@@ -3,5 +3,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Principles"
+    url: /principles/
   - title: "Archives"
     url: /archives/
