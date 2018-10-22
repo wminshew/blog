@@ -22,8 +22,9 @@ env:
 deploy:
   provider: pages
   local-dir: _site
+  target-branch: gh-pages
+  keep-history: true
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  keep-history: true
   on:
     branch: master
