@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator>
   
   
   <link href="http://www.willminshew.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://www.willminshew.com/" rel="alternate" type="text/html" />
-  <updated>2018-03-28T23:12:22+00:00</updated>
+  <updated>2018-10-22T20:00:21+00:00</updated>
   <id>http://www.willminshew.com//</id>
 
   
