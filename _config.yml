@@ -30,8 +30,6 @@ google_analytics: UA-107715418-1
 # comments: true
 
 # Build settings
-destination: docs
-disable_disk_cache: true
 markdown: kramdown
 theme: jekyll-whiteglass
 # theme: minima
