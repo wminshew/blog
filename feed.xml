@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="4.2.2">Jekyll</generator>
   
   
   <link href="http://www.willminshew.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://www.willminshew.com/" rel="alternate" type="text/html" />
-  <updated>2018-10-22T20:00:21+00:00</updated>
+  <updated>2022-04-20T10:53:36-05:00</updated>
   <id>http://www.willminshew.com//</id>
 
   
@@ -31,20 +31,20 @@
       <title type="html">Personal constitutions</title>
       
       <link href="http://www.willminshew.com/2018/03/27/personal-constitutions/" rel="alternate" type="text/html" title="Personal constitutions" />
-      <published>2018-03-27T00:00:00+00:00</published>
-      <updated>2018-03-27T00:00:00+00:00</updated>
+      <published>2018-03-27T00:00:00-05:00</published>
+      <updated>2018-03-27T00:00:00-05:00</updated>
       <id>http://www.willminshew.com/2018/03/27/personal-constitutions</id>
       <content type="html" xml:base="http://www.willminshew.com/2018/03/27/personal-constitutions/">&lt;blockquote&gt;
   &lt;p&gt;Watch your thoughts for they become words,&lt;br /&gt;
 watch your words for they become actions,&lt;br /&gt;
 watch your actions for they become habits,&lt;br /&gt;
 watch your habits for they become your character,&lt;br /&gt;
-watch your character for it becomes your destiny.&lt;!--more--&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+watch your character for it becomes your destiny.&lt;!--more--&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Everybody knows at a high level that life is path dependent&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.
+&lt;p&gt;Everybody knows at a high level that life is path dependent&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.
 Two humans subject to the same event will perceive &amp;amp; react differently based on their previous experiences.
-This is at least partially because the brain, and more specifically the neurons that form networks that we label the brain, exhibit hysteresis&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.
+This is at least partially because the brain, and more specifically the neurons that form networks that we label the brain, exhibit hysteresis&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.
 Simply, we are stateful beings.
 And from far enough away, this is obvious.
 “Of course an individual born in year 200 b.c. has different ideas, opinions, and norms than we do today!”
@@ -57,7 +57,7 @@ But over millions of years mountains are carved, and the result is anything but 
 
 &lt;p&gt;We are not our thoughts.
 But we do, over time, become our thoughts.
-And our thoughts are heavily influenced by our environment—an idea that has been recognized time and time again in cliches&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+And our thoughts are heavily influenced by our environment—an idea that has been recognized time and time again in cliches&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 
 &lt;p&gt;We are the average of our five closest friends.&lt;br /&gt;
 We are what we repeatedly do.&lt;br /&gt;
@@ -79,7 +79,7 @@ We do have the potential for change, and it begins simply with awareness of this
 Once you appreciate the loop, you become empowered to make changes.
 First small, then large.&lt;/p&gt;
 
-&lt;p&gt;With this framework in mind, I would like to introduce what I believe is my most impactful daily practice&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.
+&lt;p&gt;With this framework in mind, I would like to introduce what I believe is my most impactful daily practice&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.
 There are two components:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -113,7 +113,7 @@ This is not your one chance to get it right; they are not set and forget.
 They form a living document, and defining our destination is an iterative process.&lt;/p&gt;
 
 &lt;p&gt;This brings us to component 2: reviewing is how you turn your time &lt;em&gt;t-1&lt;/em&gt; outputs into time &lt;em&gt;t&lt;/em&gt; inputs.
-The review process is critical: this is how you complete the feedback loop between your past, current, and future selves&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;.
+The review process is critical: this is how you complete the feedback loop between your past, current, and future selves&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;.
 You should not speed through the review process as though you were wolfing down a doritos locos taco.
 Rather, you are tasting an exquisite wine.
 Swish it around a little bit, let the flavor engage all parts of the inside of your mouth (brain).&lt;/p&gt;
@@ -129,7 +129,7 @@ This reflection builds &amp;amp; strengthens various connections within your bra
 Much like high-performing athletes build muscle memory, you can think of this time as building ‘neuron memory.’
 The stronger the connections in your head, the more likely these ideas are to trigger in the future.
 Not to belabor the point, but the repetition &amp;amp; reflection has second-order effects as well.
-The more the ideas are triggered in life, the stronger the connections become, the more likely they are to be triggered in the future&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.
+The more the ideas are triggered in life, the stronger the connections become, the more likely they are to be triggered in the future&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.
 Eventually the triggers happen so easily &amp;amp; often that it feels like you’re running your mind in debug mode.
 At that point, you won’t be able to get away from the error throwing when you violate one of them even if you wanted to.&lt;/p&gt;
 
@@ -145,7 +145,7 @@ My document serves two main purposes:&lt;/p&gt;
 &lt;p&gt;It is a deeply personal document, and while some elements I believe are timeless, others may only relate to specific, temporary circumstances I am fixated on or struggling with today.
 You may not agree with everything I’ve chosen to include, and that’s ok; these are beliefs and ideas that resonant &lt;em&gt;with me&lt;/em&gt;.
 You also may not fully understand everything I’ve included, as each line now holds rich contextual history in my own brain far beyond what words on a page represent.
-That said, I am publishing it to serve as a potential source of inspiration for others, and also as a filter for inbound communication&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.
+That said, I am publishing it to serve as a potential source of inspiration for others, and also as a filter for inbound communication&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.
 Unlike Franklin, Covey, Dalio, Peterson, et al, I am not here to espouse any particular set of principles.
 Rather, the point I am trying to make is at a slightly higher abstraction level: it is the daily practice of choosing, reviewing, reflecting, and editing one’s principles that is powerful.
 Not necessarily any particular principles in and of themselves (though for each person, over time, I expect some convergence to a set they find resonant.)
@@ -201,31 +201,31 @@ watch your actions for they become habits,&lt;br /&gt;
 watch your habits for they become your character,&lt;br /&gt;
 watch your character for it becomes your destiny.&lt;br /&gt;
 —&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Attribution is &lt;a href=&quot;https://quoteinvestigator.com/2013/01/10/watch-your-thoughts/&quot;&gt;murky&lt;/a&gt;; I will post later on knowledge, creativity, and why I don’t really care who said it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Attribution is &lt;a href=&quot;https://quoteinvestigator.com/2013/01/10/watch-your-thoughts/&quot;&gt;murky&lt;/a&gt;; I will post later on knowledge, creativity, and why I don’t really care who said it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;At least, everybody who’s developed &lt;a href=&quot;https://en.wikipedia.org/wiki/Theory_of_mind&quot;&gt;theory of mind&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;At least, everybody who’s developed &lt;a href=&quot;https://en.wikipedia.org/wiki/Theory_of_mind&quot;&gt;theory of mind&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;All cells exhibit hysteresis at the mol bio level (epigenetics, etc). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;All cells exhibit hysteresis at the mol bio level (epigenetics, etc). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Cliches are arguably the all-time most successful memes. I believe they often hold incredible power and significant wisdom, yet are inaccessible to many due to their lossy compression. Understanding the words in a sentence is not sufficient to understand the idea behind the sentence. &lt;a href=&quot;https://wiki.lesswrong.com/wiki/The_map_is_not_the_territory&quot;&gt;The map is not the territory&lt;/a&gt;. To be expanded on in a future post, but suffice to say I believe phrases that become cliches are not by accident. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Cliches are arguably the all-time most successful memes. I believe they often hold incredible power and significant wisdom, yet are inaccessible to many due to their lossy compression. Understanding the words in a sentence is not sufficient to understand the idea behind the sentence. &lt;a href=&quot;https://wiki.lesswrong.com/wiki/The_map_is_not_the_territory&quot;&gt;The map is not the territory&lt;/a&gt;. To be expanded on in a future post, but suffice to say I believe phrases that become cliches are not by accident. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;Yes, I have several daily practices. Don’t worry, I have no intention of turning this into a productivity blog, despite being a personal sucker for &lt;a href=&quot;https://pmarchive.com/guide_to_personal_productivity.html&quot;&gt;productivity porn&lt;/a&gt;. Perhaps one day I will write up my full system, but today is not that day. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Yes, I have several daily practices. Don’t worry, I have no intention of turning this into a productivity blog, despite being a personal sucker for &lt;a href=&quot;https://pmarchive.com/guide_to_personal_productivity.html&quot;&gt;productivity porn&lt;/a&gt;. Perhaps one day I will write up my full system, but today is not that day. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;As I will discuss in a later blog post, I believe feedback loops are the most important known forces/structures in the universe. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;As I will discuss in a later blog post, I believe feedback loops are the most important known forces/structures in the universe. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;Another feedback loop! &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Another feedback loop! &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;If you think my principles or practice is stupid, we probably wouldn’t have gotten along very well anyway. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If you think my principles or practice is stupid, we probably wouldn’t have gotten along very well anyway. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content>
@@ -279,8 +279,8 @@ watch your character for it becomes your destiny.&lt;br /&gt;
       <title type="html">Why write a blog</title>
       
       <link href="http://www.willminshew.com/2017/10/24/why-write-a-blog/" rel="alternate" type="text/html" title="Why write a blog" />
-      <published>2017-10-24T00:00:00+00:00</published>
-      <updated>2017-10-24T00:00:00+00:00</updated>
+      <published>2017-10-24T00:00:00-05:00</published>
+      <updated>2017-10-24T00:00:00-05:00</updated>
       <id>http://www.willminshew.com/2017/10/24/why-write-a-blog</id>
       <content type="html" xml:base="http://www.willminshew.com/2017/10/24/why-write-a-blog/">&lt;p&gt;Before beginning a journey, it is important to choose a destination. The destination may be concrete or abstract, but it must be well-defined. If it isn’t, how will you know if you’re off-track, or if you’ve arrived? “My destination is nowhere” is explicit, and so acceptable. But if your destination is somewhere, further definition is paramount. Even the wise men needed a north star.&lt;/p&gt;
 
