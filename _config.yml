@@ -27,9 +27,11 @@ linkedin_username: william-minshew
 facebook_app_id:
 facebook_image:
 google_analytics: UA-107715418-1
-comments: true
+# comments: true
 
 # Build settings
+destination: docs
+disable_disk_cache: true
 markdown: kramdown
 theme: jekyll-whiteglass
 # theme: minima
@@ -44,8 +46,8 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      comments: true
+    # values:
+    #   comments: true
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
