@@ -41,11 +41,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+# defaults:
+#   - scope:
+#       path: "" # an empty string here means all files in the project
+#       type: "posts" # previously `post` in Jekyll 2.2.
+#     values:
+#       comments: true
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
