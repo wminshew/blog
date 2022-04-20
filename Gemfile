@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.6.0"
+gem "jekyll"
 gem "jekyll-whiteglass"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -20,7 +20,7 @@ gem "html-proofer"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
 	gem 'jekyll-archives'
 	gem 'jekyll-sitemap'
 	gem 'jekyll-paginate'
